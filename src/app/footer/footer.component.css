@@ -1,0 +1,43 @@
+.container{
+    border-top: 1px solid #f8f8f8;
+}
+li
+{
+  list-style-type: none;
+  margin-left: 1vw;
+}
+
+li:first-child
+{
+  margin:0;
+}
+
+footer
+{
+  padding-top: 5vh;
+  padding-bottom: 2vh;
+}
+
+.copyright,  .impressum
+{
+  text-align: center;
+}
+
+.logo
+{
+  height: 5vh;
+}
+
+@media (max-width: 768px) 
+{
+  li
+  {
+    margin-left: 0;
+    margin-bottom: 1vh;
+  }
+  
+  .sozial
+  {
+    margin-bottom: 1vh;
+  }
+}

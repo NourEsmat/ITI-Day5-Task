@@ -1,0 +1,13 @@
+.banner{
+    background-image: url('../../assets/imgaes/banner.jpeg');
+    height:150px;
+    background-size: cover;
+    background-position: right center;
+    background-repeat: no-repeat;   
+}
+
+h2{
+    width: 300px;
+    margin: auto;
+    padding-top: 50px;
+}
